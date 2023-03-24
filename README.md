@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaskuzma
 - 👽 I’m working on [the.strange.agency](http://the.strange.agency) and [verdant.systems](http://verdant.systems)
-- 📫 Find me on [IG](https://www.instagram.com/the.lucas.kuzma/) and [Twitter](https://twitter.com/kuzmalucas)
+- 📫 Find me on [Instagram](https://www.instagram.com/the.lucas.kuzma/) and [Twitter](https://twitter.com/kuzmalucas)
 
 <!---
 lucaskuzma/lucaskuzma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
